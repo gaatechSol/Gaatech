@@ -1,0 +1,49 @@
+# 🔐 Security Policy
+
+## 📦 Supported Versions
+
+Below is a list of supported versions of **Gaatech QR** with respect to security updates and critical patches.
+
+| Version   | Supported          |
+| --------- | ------------------ |
+| 1.2.x     | ✅ :white_check_mark: |
+| 1.1.x     | ❌ :x:                |
+| 1.0.x     | ✅ :white_check_mark: |
+| < 1.0.0   | ❌ :x:                |
+
+> We recommend all users upgrade to the latest supported version to ensure security and access to new features.
+
+---
+
+## 📣 Reporting a Vulnerability
+
+If you discover a security vulnerability in the Gaatech QR Code Generator, please **report it responsibly** by following these steps:
+
+### 🔍 Where to Report
+- Email: **security@gaatech.co.ke**
+- Subject line: `Security Report - Gaatech QR`
+
+### ⏱ Response Time
+- We will acknowledge your report within **24 hours**
+- Investigation will be completed within **72 hours**
+- Fixes will be prioritized and released as soon as possible
+
+### ✅ What to Include
+- Description of the vulnerability
+- Steps to reproduce (code, screenshots, logs)
+- Potential impact (e.g., data exposure, privilege escalation)
+
+---
+
+## 🙏 Responsible Disclosure
+
+Please **do not disclose security vulnerabilities publicly** or to third parties until we have confirmed and patched the issue.
+
+We value your efforts to keep the system secure and will credit responsible disclosures (if requested).
+
+---
+
+## 🔒 Thank You
+
+Security is a shared responsibility. We appreciate your contribution to keeping Gaatech QR safe and reliable for all users.
+
